@@ -26,6 +26,6 @@ Futuro ingeniero en Ciencias de la Computación con experiencia en Sistemas de R
 ---
 
 ## 📫 Contacto
-- **GitHub:** [@ChristianPue (este mismo)](https://github.com/ChristianPue).
-- **YouTube:** [@ChristianPue](https://www.youtube.com/@christianpue).
+- **GitHub:** [@ChristianPue (este mismo)](https://github.com/ChristianPue)
+- **YouTube:** [@ChristianPue](https://www.youtube.com/@christianpue)
 - **LinkedIn:** [@ChristianPue](www.linkedin.com/in/christianpue)
