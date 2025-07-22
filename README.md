@@ -34,7 +34,7 @@ Futuro ingeniero en Ciencias de la Computación con experiencia en Sistemas de R
 
 ## 📫 Contacto
 
-¿Te interesa colaborar en proyectos académicos o profesionales? No dudes en escribirme al 
+¿Te interesa que colabore en proyectos académicos o profesionales? No dudes en escribirme al 
 
 - ✉️ **correo** [work9ym5ivia4s@outlook.com](mailto:work9ym5ivia4s@outlook.com)
 
