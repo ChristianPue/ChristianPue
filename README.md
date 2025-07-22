@@ -4,7 +4,7 @@ Estudiante universitario apasionado por la tecnología. Comparto conocimientos, 
 ---
 
 ## 🎓 Perfil Profesional
-Futuro Ingeniero en Ciencias de la Computación con experiencia en Sistemas de Redes, Ciencia de Datos e Inteligencia Artificial.
+Futuro ingeniero en Ciencias de la Computación con experiencia en Sistemas de Redes, Ciencia de Datos e Inteligencia Artificial.
 
 ---
 
@@ -27,4 +27,5 @@ Futuro Ingeniero en Ciencias de la Computación con experiencia en Sistemas de R
 
 ## 📫 Contacto
 - **GitHub:** [@ChristianPue (este mismo)](https://github.com/ChristianPue).
-- **YouTube:**: [@ChristianPue](https://www.youtube.com/@christianpue).
+- **YouTube:** [@ChristianPue](https://www.youtube.com/@christianpue).
+- **LinkedIn:** [@ChristianPue](www.linkedin.com/in/christianpue)
