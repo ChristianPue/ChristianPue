@@ -25,7 +25,17 @@ Futuro ingeniero en Ciencias de la Computación con experiencia en Sistemas de R
 
 ---
 
-## 📫 Contacto
+## 📣 Redes Sociales
 - **GitHub:** [@ChristianPue (este mismo)](https://github.com/ChristianPue)
 - **YouTube:** [@ChristianPue](https://www.youtube.com/@christianpue)
 - **LinkedIn:** [@ChristianPue](https://www.linkedin.com/in/christianpue)
+
+---
+
+## 📫 Contacto
+
+¿Te interesa colaborar en proyectos académicos o profesionales? No dudes en escribirme al 
+
+- ✉️ **correo** [work9ym5ivia4s@outlook.com](mailto:work9ym5ivia4s@outlook.com)
+
+> Estoy abierto a propuestas técnicas, asesorías académicas y retos interesantes.
